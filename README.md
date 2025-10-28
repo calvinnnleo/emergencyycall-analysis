@@ -21,7 +21,7 @@ Analisis disajikan dalam format Jupyter Notebook, mencakup:
 - Estimasi dampak bisnis & ROI  
 
 ➡️ **Lihat analisis dan visualisasi secara lengkap dalam link dibawah ini**:  
-(https://nbviewer.org/github/calvinnnleo/emergencycall-analysis/blob/main/CaseStudy.ipynb)
+(https://nbviewer.org/github/calvinnnleo/emergencyycall-analysis/blob/main/CaseStudy.ipynb)
 
 > 💡 **Mengapa nbviewer?**  
 > GitHub tidak selalu menampilkan grafik dengan benar. Nbviewer menjamin semua visualisasi (grafik, tabel, output) ditampilkan utuh dan rapi.
